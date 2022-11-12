@@ -1,1 +1,2 @@
-https://obamabot.me website
+https://obamabot.me
+This is the website for ObamaBot
